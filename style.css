@@ -27,7 +27,7 @@ body{
     font-weight: bold;
 }
 canvas{
-    border: 5px double white;
+    border: 5px double rgb(0, 0, 0);
     box-shadow: 10px 10px 10px white;
     margin-top: 90px;
 }
